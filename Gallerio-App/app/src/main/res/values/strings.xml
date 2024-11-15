@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallerio</string>
+    <string name="sort_by">Sort by</string>
+    <string name="filter">Filter</string>
+    <string name="create_album">Create Album</string>
+    <string name="move_to_album">Move to Album</string>
+    <string name="delete">Delete</string>
+</resources>
